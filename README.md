@@ -54,7 +54,7 @@ All parameter values can be set at
 	
 	
 	check /include/headers/miscellaneous/miscellaneous.h: 
-	all the sources (.cpp) should be commented (//)
+	all the sources (.cpp) should be commented out (//)
 	
 	(THE MAKEFILE IN THIS VERSION IS OUTDATED)
 	
